@@ -1,0 +1,1 @@
+o an MBA is just an acronym for a type of master's degree? Exactly. MBA stands for Master of Business Administration. So the difference between an MBA and master's degree is that the MBA is just a more specific designation of the degree you're pursuing.
