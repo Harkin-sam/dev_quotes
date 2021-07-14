@@ -1,0 +1,1 @@
+In a command prompt window, type cd followed by the path of the file that you wish to open. After the path matches with the one in the search result. Enter the file name of the file and press Enter. It will launch the file instantly.
